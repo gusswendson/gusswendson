@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on learning to code
 - 📫 How to reach me angus@nakedlogic.net
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: frankston hospital sucks
+- ⚡ Fun fact: frankston hospital did me no favours.
 
 <!---
 gusswendson/gusswendson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
