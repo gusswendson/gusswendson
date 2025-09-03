@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gusswendson
-- 👀 I’m interested in ICT and coding
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on learning to code
+- 👀 I’m interested in ICT and AI & Physics
+- 🌱 I’m still learning
+- 💞️ I’m looking to collaborate on of the aforementioned
 - 📫 How to reach me angus@nakedlogic.net
 - 📞 +61 403 635 665
 - 😄 Pronouns: he/him
