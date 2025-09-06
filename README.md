@@ -2,7 +2,7 @@
 - 👀 I’m interested in ICT and AI & Physics
 - 🌱 I’m still learning
 - 💞️ I’m looking to collaborate on of the aforementioned
-- 📫 How to reach me angus@barringtonit.com
+- 📫 How to reach me hello@nutca.se
 - 📞 +61 403 635 665
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: frankston hospital did me no favours.
