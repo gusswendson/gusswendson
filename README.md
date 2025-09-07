@@ -5,7 +5,7 @@
 - 📫 How to reach me hello@nutca.se
 - 📞 +61 403 635 665
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: frankston hospital did me no favours....
+- ⚡ Fun fact: frankston hospital did me no favours...
 
 <!---
 gusswendson/gusswendson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
